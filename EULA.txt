@@ -1,0 +1,16 @@
+NOTEBOOK REPRO GUARD — DEVELOPER EULA
+Effective 18 November 2026
+
+1. Parties and product. This agreement is between you and AFK Mesh, the verified Türkiye-based JetBrains Marketplace vendor at https://plugins.jetbrains.com/vendor/afkmesh, for Notebook Repro Guard. AFK Mesh is the licensor. Contact: afkinform@gmail.com. JetBrains acts as reseller and is not a party to this agreement.
+
+2. License. Subject to this agreement and your Marketplace confirmation, the developer grants you a limited, worldwide, nonexclusive, nontransferable right to install and use the plugin and make archival backup copies. Free features may be used without a Pro subscription. Pro features require a valid per-user plugin license or authorized plugin trial. An IDE subscription is separate. Organizational use must not exceed the number of licensed developers. Subscription duration, price and any applicable fallback rights are determined by your Marketplace confirmation and applicable sales terms; this agreement does not remove those rights.
+
+3. Restrictions and ownership. The developer and its licensors retain ownership. You may not redistribute, sublicense, circumvent licensing or modify the proprietary plugin except with written authorization or where mandatory law permits it. Third-party components remain subject to their own licenses, which prevail for those components. You retain rights in your notebooks, inputs and outputs.
+
+4. Local execution. You select the local notebook and trusted Python environment. Replay executes code with your account permissions, including filesystem and network access. Review code, commands and results. Findings cover the observed execution and supported outputs. You control retention and sharing of reports.
+
+5. Warranty. To the extent permitted by applicable law, the plugin is provided as available and as is, without warranties of accuracy, uninterrupted operation, fitness for a particular purpose, merchantability or noninfringement. Mandatory statutory rights remain unaffected.
+
+6. Liability. To the maximum extent permitted by law, the developer is not liable for indirect, consequential or lost-profit damages. Aggregate liability relating to this plugin is limited to plugin fees paid through Marketplace during the three months before the claim. No exclusion applies where prohibited by law, including liabilities that cannot lawfully be limited. JetBrains has no contractual liability under this developer agreement because it is not a party.
+
+7. Termination and changes. Material breach may terminate the rights granted here, subject to mandatory law and applicable Marketplace terms. Expiration of Pro entitlement does not remove free functionality or any applicable fallback rights. Changes apply prospectively as permitted by law. Marketplace purchasing, refund and subscription terms continue to apply separately.

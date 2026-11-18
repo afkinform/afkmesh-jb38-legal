@@ -1,0 +1,3 @@
+# Privacy
+Notebook Repro Guard processes local notebooks in the selected Python environment. It provides no analytics, cloud analysis or LLM integration. JetBrains manages Marketplace licensing under its own terms.
+Each replay writes a copy and report under ~/NotebookReproGuard. These can contain notebook outputs, paths, package names, errors and metadata. Review reports before sharing and delete the run folder to remove its artifacts. Notebook code can read or change files and access external services with your permissions. Run only trusted notebooks. Contact the AFK Mesh Marketplace vendor at afkinform@gmail.com.
